@@ -27,8 +27,12 @@ Capacitar o(a) estudante a compreender, desenvolver e aplicar algoritmos eficien
 ## 📁 Estrutura do Repositório
 
 /
-├── aulas/ # Códigos apresentados em sala de aula
-├── exercicios/ # Exercícios práticos propostos
-├── projetos/ # Projetos desenvolvidos ao longo do curso
-├── docs/ # Materiais de apoio e leituras complementares
+ aulas/ 
+ # Códigos apresentados em sala de aula
+ exercicios/
+ # Exercícios práticos propostos
+projetos/ 
+# Projetos desenvolvidos ao longo do curso
+docs/ 
+# Materiais de apoio e leituras complementares
 └── README.md # Este arquivo
